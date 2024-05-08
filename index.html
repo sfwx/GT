@@ -92,6 +92,7 @@
         </style>
         <script>
             document.addEventListener("DOMContentLoaded", function() {
+                if (window.innerWidth || document.documentElement.clientWidth || document.body.clientWidth > 768) {
                 const worlds = [
                     {
                         "size": [28, 16],
@@ -276,6 +277,7 @@
                 document.addEventListener("keydown", (event) => {
                     movePlayer(event.key.toLowerCase());
                 });
+                }
             });
         </script>
     </head>
