@@ -1,4 +1,4 @@
-<h1>😶‍🌫️ Sobre o GameTest e sobre seu rumo</h1>
+<h1>😶‍🌫️ Sobre o GameTest (GT)</h1>
 
 > **•** Este jogo está sendo feito justamente para eu testar mecânicas de programação **`RPG`** com softwares para desenvolvimento de sites.
 
